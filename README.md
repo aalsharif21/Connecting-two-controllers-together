@@ -3,3 +3,10 @@ use I2C communication protocol in Tinkercad for connect two Arduino controllers 
 ### Project Idea :-
 the first controller reads the the push of button and sends it to the second controller
 ![picture](Tinkercad.jpg)
+
+ ### the sender arduino code 
+![picture](Sender-Arduino.jpg)
+
+
+ ### the reciver arduino code
+ ![picture](Reciver-Arduino.jpg)
